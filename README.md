@@ -18,7 +18,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### 🛠 Tech Stack & Tools:
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,git,github,vscode,tailwind" />
@@ -41,6 +41,7 @@
 ### 🌐 Connect with Me:
 
 <p>
-  <a href="https://linkedin.com/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/haider-ali-ba5492331/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/haiderali_codehub/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://wa.me/923281409024?text=Hi%20Haider,%20I%20saw%20your%20GitHub%20profile%20and%20want%20to%20connect!" target="blank"><img align="center" src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
 </p>
