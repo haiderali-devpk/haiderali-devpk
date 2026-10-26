@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haider Ali</h1>
-<h3 align="center">A passionate Full Stack Developer 🚀</h3>
+<h3 align="center">Frontend Developer | Aspiring Full-Stack Developer (MERN)</h3>
 
 <br>
 
