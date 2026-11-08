@@ -37,7 +37,7 @@
 ### 🛠 Tech Stack & Tools:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,python,git,github,vscode,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,git,github,vscode,tailwind,bootstrap,sass" />
 </p>
 
 ---
@@ -45,11 +45,12 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haiderali-devpk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haiderali-devpk&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderali-devpk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haiderali-devpk&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haiderali-devpk&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
