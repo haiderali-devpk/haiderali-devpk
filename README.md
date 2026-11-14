@@ -19,6 +19,7 @@
 
 * I build fast, modern websites that turn visitors into customers — business websites, landing pages and web apps with React and JavaScript.
 * 🌱 I’m currently working on full-stack web development and modern applications.
+* 🎯 I focus on clean, responsive UI — every site I build works beautifully on mobile and desktop.
 * ⚡ Fun fact: I love building useful tools and solving complex problems.
 
 ---
